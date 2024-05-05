@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> Hello Hello👋 I'm Farouk Bayer </h1>
+<h3 align="center"> ICT Projects Director and a Data Science enthousiast </h3>
 
 <!--
 **iamfarouk/iamfarouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
